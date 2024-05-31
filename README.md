@@ -1,4 +1,4 @@
-![Header]([https://github.com/adamalston/adamalston/raw/master/profile.gif](https://github.com/Norah-mo))](https://www.adamalston.com/)
+![Header]([https://github.com/Norah-mo](https://github.com/Norah-mo))](https://www.adamalston.com/)
 
 ##### Hi, I'am Norah mohammed:
 
