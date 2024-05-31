@@ -1,16 +1,15 @@
-## Hi there 👋
+![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
 
-<!--
-**Norah-mo/Norah-mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Hi, I'am Norah mohammed:
 
-Here are some ideas to get you started:
+A cybersecurity grad leveraging data and AI to pioneer secure solutions for our digital future💻{وَمَا أُوتِيتُمْ مِنْ الْعِلْمِ إِلاَّ قَلِيلاً}.
+- :mailbox: You can reach me with the links below
+[![Gmail]([https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com](https://myaccount.google.com/email))
+[![LinkedIn]([https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/](http://linkedin.com/in/-nourah-m))
+[![X](http://twitter.com/NM_CYS))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##### Languages I use
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
