@@ -1,5 +1,3 @@
-![Header]([https://github.com/Norah-mo](https://github.com/Norah-mo))](https://www.adamalston.com/)
-
 ##### Hi, I'am Norah mohammed:
 
 A cybersecurity grad leveraging data and AI to pioneer secure solutions for our digital future💻{وَمَا أُوتِيتُمْ مِنْ الْعِلْمِ إِلاَّ قَلِيلاً}.
